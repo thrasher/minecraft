@@ -1,0 +1,1 @@
+# put craftbukkit plugins in this directory
