@@ -1,1 +1,2 @@
-**/latest.log
+**/logs/latest.log
+**/logs/*.log.gz
